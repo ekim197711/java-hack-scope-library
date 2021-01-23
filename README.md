@@ -1,0 +1,1 @@
+# java-hack-scope-library
