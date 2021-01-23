@@ -1,0 +1,3 @@
+rootProject.name = 'dependency-scopes'
+include 'shout', 'cool-calculations'
+
